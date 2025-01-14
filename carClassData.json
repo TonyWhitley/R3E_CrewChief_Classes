@@ -1,0 +1,562 @@
+{
+    "CarClasses": [
+        {
+            /** RaceRoom-PI:     2**/
+            "carClassEnum": "ID. R",
+            "raceroomClassIds": [7765],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "isBatteryPowered": true
+            /**needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     4**/
+            "carClassEnum": "FIA F1 2022",
+            "raceroomClassIds":[10050, 11485],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 105,
+            "maxSafeOilTemp": 140,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "isDRSCapable": true,
+            "DRSRange": 1.0,
+            "pitCrewPreparationTime": 17,
+            "allMembersAreRWD": true,
+            "preferNameForOrderMessages": true
+        },
+        {
+            /** RaceRoom-PI:     5**/
+            "carClassEnum": "FIA F1 2017",
+            "raceroomClassIds": [ 5824 ],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 105,
+            "maxSafeOilTemp": 140,
+            "maxColdTyreTemp": 95,
+            "maxWarmTyreTemp": 125,
+            "maxHotTyreTemp": 135,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "isDRSCapable": true,
+            "DRSRange": 1.0,
+            "pitCrewPreparationTime": 17,
+            "allMembersAreRWD": true,
+            "preferNameForOrderMessages": true
+        },
+        {
+            /** RaceRoom-PI:     10**/
+            "carClassEnum": "ACCUS-FIA INDYCAR",
+            "raceroomClassIds": [ 5383 ],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 105,
+            "maxSafeOilTemp": 140,
+            "timesInHundredths": true,
+            "useAmericanTerms": true,
+            "enabledMessageTypes": "ALL",
+            "spotterVehicleLength": 5,
+            "spotterVehicleWidth": 2,
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     15**/
+            "carClassEnum": "FIA F1 1990S",
+            "raceroomClassIds": [ 7214 ],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 105,
+            "maxSafeOilTemp": 140,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "pitCrewPreparationTime": 17,
+            "allMembersAreRWD": true,
+            "gameTyreToTyreType": 
+            {
+              "GoodYear D": "Super_Soft",
+              "GoodYear C": "Soft",
+              "GoodYear B": "Medium",
+              "GoodYear A": "Hard"
+            }
+        },
+        {
+            /** RaceRoom-PI:     20**/
+            "carClassEnum": "FIA F2",
+            "raceroomClassIds": [ 4597 ],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 105,
+            "maxSafeOilTemp": 140,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     25**/
+            "carClassEnum": "FIA LMP1",
+            "raceroomClassIds": [ 1714 ],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 105,
+            "maxSafeOilTemp": 140,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+          
+        },
+        {
+            /** RaceRoom-PI:     28**/
+            "carClassEnum": "DPi",
+            "raceroomClassIds":[12003],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+            /**needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     30**/
+            "carClassEnum": "FIA GROUP C",
+            "raceroomClassIds": [ 4121 ],
+            "brakeType": "Carbon",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "TYRE_TEMPS, BRAKE_TEMPS, FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreRWD": true
+          
+        },
+        {
+            
+            /** RaceRoom-PI:     32**/
+            "carClassEnum": "ADAC DTM 2020",
+            "raceroomClassIds": [ 9101, 9205 ],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 105,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     35**/
+            "carClassEnum": "FIA LMP2",
+            "raceroomClassIds": [ 1923 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "maxSafeOilTemp": 135  
+        },
+        {
+            /** RaceRoom-PI:     40**/
+            "carClassEnum": "ADAC DTM 2013-2016",
+            "raceroomClassIds": [ 1921, 3086, 4260, 5262 ],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     45**/
+            "carClassEnum": "ADAC DTM 2005 & 30 Years of DTM",
+            "raceroomClassIds":[7168, 6794],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+            /** needs Data**/
+        },
+        {
+            
+            /** RaceRoom-PI:     50**/
+            "carClassEnum": "ADAC DTM 2003",
+            "raceroomClassIds":[7167],
+            "brakeType": "Carbon",
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     55**/
+            "carClassEnum": "HILL CLIMB ICONS",
+            "raceroomClassIds": [ 1685 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+        },
+        {
+            
+            /** RaceRoom-PI:     60**/
+            "carClassEnum": "FIA F3",
+            "raceroomClassIds": [ 5652 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     66**/
+            "carClassEnum": "AOC/FIA GTE & IMSA GTLM",
+            "raceroomClassIds": [ 8600 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "maxSafeOilTemp": 135,
+            "allMembersAreRWD": true
+        },
+        {            
+            /** RaceRoom-PI:     68**/
+            "carClassEnum": "FIA GROUP GT1",
+            "raceroomClassIds": [ 1687 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {            
+            /** RaceRoom-PI:     70**/
+            "carClassEnum": "IMSA GTO",
+            "raceroomClassIds": [ 1713 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "TYRE_TEMPS, BRAKE_TEMPS, FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     73**/
+            "carClassEnum": "KTM GTX",
+            "raceroomClassIds":[11990],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     75**/
+            "carClassEnum": "FIA GROUP GT2 2010S",
+            "raceroomClassIds": [ 1704 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     78**/
+            "carClassEnum": "PRAGA R1",
+            "raceroomClassIds":[11055],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"            
+        },
+        {
+            /** RaceRoom-PI:     80**/
+            "carClassEnum": "FIA GROUP GT3 & ADAC GT MASTERS 2013-2018, 2020-2021 & ADAC DTM 2021-2024",
+            "raceroomClassIds": [ 1703, 2922, 3375, 4516, 7278, 7767, 10396, 10786, 10049, 11566, 10917, 12196, 12770, 5634 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "maxSafeOilTemp": 135,
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     85**/
+            "carClassEnum": "FIA GROUP GT2 2020S",
+            "raceroomClassIds": [ 8248 ],
+            "timesInHundredths": true,
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "enabledMessageTypes": "ALL",
+            "brakeType": "Ceramic",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     90**/
+            "carClassEnum": "ZONDA R CUP",
+            "raceroomClassIds":[7110],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     95**/
+            "carClassEnum": "FIA CLASS 1 Touring Cars - DTM 1995",
+            "raceroomClassIds":[7110],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:    100**/
+            "carClassEnum": "FIA GROUP 5",
+            "raceroomClassIds": [ 1708 ],
+            "timesInHundredths": false,
+            "enabledMessageTypes": "FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    104**/
+            "carClassEnum": "Porsche 992 GT3 Cup",
+            "raceroomClassIds":[12302],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD":true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:    105**/
+            "carClassEnum": "Porsche 991.2 GT3 Cup",
+            "raceroomClassIds":[6345],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD":true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:    110**/
+            "carClassEnum": "Porsche Carrera Cup & Porsche Cayman GT4 Clubsport",
+            "raceroomClassIds": [ 7982, 8165, 8681, 12015, 7041 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+            /** needs Date**/
+        }, 
+        {
+            /** RaceRoom-PI:    120**/
+            "carClassEnum": "FIA WTCC 2014-2017",
+            "raceroomClassIds": [ 3905, 4517, 6036, 6309 ],
+            "timesInHundredths": true,
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreFWD": true
+        },
+        {
+            /** RaceRoom-PI:   125*/
+            "carClassEnum": "FIA F4",
+            "raceroomClassIds": [ 4867 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "TYRE_TEMPS, BRAKE_TEMPS, FUEL, LOCKING_AND_SPINNING",
+            "spotterVehicleLength": 4.34,
+            "spotterVehicleWidth": 1.75,
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    130*/
+            "carClassEnum": "KTM RR CUP & RaceRoom eSports Cup",
+            "raceroomClassIds": [ 5385, 6172 ],
+            "maxSafeWaterTemp": 102,
+            "maxSafeOilTemp": 115,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    140**/
+            "carClassEnum": "AUDI TT RS CUP VLN",
+            "raceroomClassIds": [ 5234 ],
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+        },
+        {
+            /** RaceRoom-PI:    145**/
+            "carClassEnum": "FIA WTCC 2013",
+            "raceroomClassIds": [ 1922 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+        },
+        {
+            /** RaceRoom-PI:    150**/
+            "carClassEnum": "Aquila CR1 Cup",
+            "raceroomClassIds": [ 255 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+        },
+        {
+            /** RaceRoom-PI:    155**/
+            "carClassEnum": "FIA CLASS 1 Touring Cars - DTM 1992",
+            "raceroomClassIds": [ 3499 ],
+            "timesInHundredths": true,
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "enabledMessageTypes": "TYRE_TEMPS, BRAKE_TEMPS, FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    158**/
+            "carClassEnum": "eTCR",
+            "raceroomClassIds": [ 8682, 10266 ],
+            "isBatteryPowered": true,
+            "enabledMessageTypes":"ALL"
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:    160**/
+            "carClassEnum": "TCC & WTCR 2018-2022 & eSports WTCR",
+            "raceroomClassIds": [ 7009, 7844, 8660, 9233, 10344, 11317, 8656, 6783 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreFWD": true
+        },
+        {
+            /** RaceRoom-PI:    161**/
+            "carClassEnum": "FIA Super Touring",
+            "raceroomClassIds": [ 1710 ],
+            "brakeType": "Ceramic",
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+            /** need Data**/
+        },
+        {
+            /** RaceRoom-PI:    165**/
+            "carClassEnum": "FIA GROUP GT4 & Cayman GT4",
+            "raceroomClassIds": [ 5825 ],
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true,
+        },
+        {
+            /** RaceRoom-PI:    170**/
+            "carClassEnum": "RaceRoom Silhuette",
+            "raceroomClassIds": [ 1717 ],
+            "timesInHundredths": true,
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    175**/
+            "carClassEnum": "German Nationals",
+            "raceroomClassIds": [ 1706 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    187**/
+            "carClassEnum": "AUDI TT CUP 2015-2016",
+            "raceroomClassIds": [ 4680, 5726 ],
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL"
+        },
+        {
+            /** RaceRoom-PI:     189**/
+            "carClassEnum": "BMW M2 CUP",
+            "raceroomClassIds":[10909],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD":true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     193**/
+            "carClassEnum": "FRJ Cup",
+            "raceroomClassIds": [ 253 ],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "TYRE_TEMPS, FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     195**/
+            "carClassEnum": "Crossle 9S",
+            "raceroomClassIds":[11844],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD":true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     197**/
+            "carClassEnum": "BMW M1 PROCAR",
+            "raceroomClassIds": [ 2378 ],
+            "timesInHundredths": false,
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "enabledMessageTypes": "FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    199**/
+            "carClassEnum": "FIA GROUP 4",
+            "raceroomClassIds": [ 7304 ],
+            "timesInHundredths": false,
+            "enabledMessageTypes": "FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:    201**/
+            "carClassEnum": "BMW M235i Cup",
+            "raceroomClassIds": [ 6344 ],
+            "timesInHundredths": true,
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     203**/
+            "carClassEnum": "Mazda MX-5 Cup",
+            "raceroomClassIds":[10977],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD":true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     205**/
+            "carClassEnum": "Touring Classics & Porsche 964 Cup",
+            "raceroomClassIds": [ 7287, 1712],
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD": true
+        },
+        {
+            /** RaceRoom-PI:     207**/
+            "carClassEnum": "Crossle 90F",
+            "raceroomClassIds":[10899],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD":true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     209**/
+            "carClassEnum": "Porsche 944 Turbo Cup",
+            "raceroomClassIds":[11564],
+            "timesInHundredths": true,
+            "enabledMessageTypes": "ALL",
+            "allMembersAreRWD":true
+            /** needs Data**/
+        },
+        {
+            /** RaceRoom-PI:     212**/
+            "carClassEnum": "FIA GROUP 2",
+            "raceroomClassIds": [ 8483 ],
+            "defaultTyreType": "Bias_Ply",
+            "enabledMessageTypes":"ALL",
+            "allMembersAreFWD": true
+        },
+        {
+            /** RaceRoom-PI:     215**/
+            "carClassEnum": "NSU TTS Cup & Shopping Cart",
+            "raceroomClassIds": [ 4813, 8680 ],
+            "maxSafeWaterTemp": 100,
+            "maxSafeOilTemp": 106,
+            "minTyreCircumference": 1.25,
+            "maxTyreCircumference": 2.8,
+            "timesInHundredths": false,
+            "enabledMessageTypes": "FUEL, LOCKING_AND_SPINNING",
+            "allMembersAreFWD": true
+        },
+        {
+            /** RaceRoom-PI:     217**/
+            "carClassEnum": "RaceRoom Truck",
+            "raceroomClassIds": [ 9989 ],
+            "spotterVehicleWidth": 2.5,
+            "spotterVehicleLength": 6.5,
+            "allMembersAreRWD": true
+        },
+    ]
+}    
