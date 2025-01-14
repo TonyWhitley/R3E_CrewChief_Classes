@@ -10,7 +10,7 @@ The change of the Class/Group names will have the result that CrewChief won´t m
 
 All newly added Classes (which were missing) have a comment that further Data is required, things like brake material and temps f.e. i don´t know them and didn´t know where to search, cause R3E has no Data, i wonder where the original CrewChief Guys found that stuff...
 
-ALSO: This File is only for R3E i don´t know if the other Games will still work, cause i deleted the files for them at least in the json here, but maybe if there is nothing in this json CrewChief will search the "normal" json in the Program Files folder. NOT TESTED THO!
+ALSO: This File is only for R3E i don´t know if the other Games will still work, cause i deleted the lines for them at least in the json here, but maybe if there is nothing in this json CrewChief will search the "normal" json in the Program Files folder. NOT TESTED THO!
 
 Installation:
 Documents/CrewChiefV4/     <--- just drop the file here!
