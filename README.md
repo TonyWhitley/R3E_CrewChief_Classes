@@ -19,3 +19,9 @@ IMPORTANT it must be the Documents Folder - otherwise the next CC4 update will o
 Current Performance Index: https://forum.kw-studios.com/index.php?threads/performance-index.10084/page-6#post-252538
 
 If you have any questions feel free to ask, any contribution is also muchly appreciated - you can find me on Discord under the same Name and also on the official R3E Discord and also the official CrewChiefV4 Discord!!!
+
+<p align="center">
+    <a href="https://github.com/ToastyBanK3nobi/R3E_CrewChief_Classes/releases">
+        <img src="https://img.shields.io/github/downloads/ToastyBanK3nobi/R3E_CrewChief_Classes/total.svg?style=flat-square&label=Downloads" alt="Downloads">
+    </a>
+</p>
