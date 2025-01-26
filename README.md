@@ -18,10 +18,10 @@ Current Performance Index: https://forum.kw-studios.com/index.php?threads/perfor
 If you have any questions feel free to ask, any contribution is also muchly appreciated - you can find me on Discord under the same Name and also on the official R3E Discord and also the official CrewChiefV4 Discord!!!
 
 
-You have 2 Options to choose from
+<h2>You have 2 Options to choose from</h2>
 
-Option one is the 7zip with R3E Only Classes - here you can have problems with Voice Outputs <br>
-Option two is the 7zip with integrated in the Name, this is the one i use and recommend i tried to integrate the changes into the original File - here you should have no problems with Voice Outputs, except the Classes that didn´t exist, which i made entirely new.
+<h3>Option one is the 7zip with R3E Only Classes - here you can have problems with Voice Outputs <br>
+Option two is the 7zip with integrated in the Name, this is the one i use and recommend i tried to integrate the changes into the original File - here you should have no problems with Voice Outputs, except the Classes that didn´t exist, which i made entirely new.</h3>
 
 IF IN DOUBT PICK OPTION 2
 
