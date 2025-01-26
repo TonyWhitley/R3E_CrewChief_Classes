@@ -17,6 +17,9 @@ Current Performance Index: https://forum.kw-studios.com/index.php?threads/perfor
 
 If you have any questions feel free to ask, any contribution is also muchly appreciated - you can find me on Discord under the same Name and also on the official R3E Discord and also the official CrewChiefV4 Discord!!!
 
+<i>Hey @ALL i just updated the Github! Now you can choose between 2 Versions, the "integratedVersion" uses the StandardClasses of CC4 and adds the missing ones, so this Version has the most Support from CC4 cause it can use the Voice lines...
+
+The R3E Version is just a reupload of the earlier uploaded version, so it has own classes which will not use AudioLines and are only Setup for R3E!!!</i>
 
 <h2>You have 2 Options to choose from</h2>
 
