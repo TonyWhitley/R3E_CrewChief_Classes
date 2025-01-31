@@ -57,5 +57,5 @@ Hey @ALL! I just updated the GitHub repository! You now have the option to choos
     </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToastyBanK3nobi&repo=R3E-CrewChief_CLasses&show_icons=true)
+/**![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToastyBanK3nobi&repo=R3E-CrewChief_CLasses&show_icons=true)**/
 
