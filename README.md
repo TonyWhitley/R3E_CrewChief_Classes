@@ -56,4 +56,15 @@ Hey @ALL! I just updated the GitHub repository! You now have the option to choos
         <img src="https://img.shields.io/github/downloads/ToastyBanK3nobi/R3E_CrewChief_Classes/total.svg?style=flat-square&label=Downloads" alt="Downloads">
     </a>
 </p>
-![Total Downloads](https://img.shields.io/github/downloads/ToastyBanK3nobi/R3E_CrewChief_Classes/total)
+
+<?php
+$url = 'https://api.github.com/repos/ToastyBanK3nobi/R3E_CrewChief_Classes/releases';
+$releases = json_decode(file_get_contents($url), true);
+$totalDownloads = 0;
+
+foreach ($releases as $release) {
+    $totalDownloads += $release['assets'][0]['download_count'];
+}
+
+echo "Total Downloads: " . $totalDownloads;
+?>
