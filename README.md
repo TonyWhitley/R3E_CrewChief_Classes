@@ -57,14 +57,5 @@ Hey @ALL! I just updated the GitHub repository! You now have the option to choos
     </a>
 </p>
 
-<?php
-$url = 'https://api.github.com/repos/ToastyBanK3nobi/R3E_CrewChief_Classes/releases';
-$releases = json_decode(file_get_contents($url), true);
-$totalDownloads = 0;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToastyBanK3nobi&repo=R3E-CrewChief_CLasses&show_icons=true)
 
-foreach ($releases as $release) {
-    $totalDownloads += $release['assets'][0]['download_count'];
-}
-
-echo "Total Downloads: " . $totalDownloads;
-?>
