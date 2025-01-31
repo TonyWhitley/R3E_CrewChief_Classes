@@ -56,3 +56,4 @@ Hey @ALL! I just updated the GitHub repository! You now have the option to choos
         <img src="https://img.shields.io/github/downloads/ToastyBanK3nobi/R3E_CrewChief_Classes/total.svg?style=flat-square&label=Downloads" alt="Downloads">
     </a>
 </p>
+![Total Downloads](https://img.shields.io/github/downloads/ToastyBanK3nobi/R3E_CrewChief_Classes/total)
